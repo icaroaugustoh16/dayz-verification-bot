@@ -1,0 +1,55 @@
+{
+  "terms": {
+    "title": "📜 Termos de Serviço - Loja de Coins",
+    "description": "Ao realizar uma compra, você concorda com os seguintes termos:",
+    "items": [
+      {
+        "title": "💰 Sobre os Coins",
+        "content": "Os coins são moeda virtual utilizada exclusivamente no servidor DayZ Apocalypse. Não possuem valor monetário fora do jogo e não podem ser trocados por dinheiro real."
+      },
+      {
+        "title": "🚫 Política de Reembolso",
+        "content": "**NÃO REALIZAMOS REEMBOLSOS**, exceto em casos excepcionais como:\n• Erro técnico comprovado no sistema\n• Não recebimento dos coins por falha nossa\n• Duplicação de pagamento acidental\n\n⚠️ **NÃO daremos reembolso se:**\n• Você gastou os coins (mesmo parcialmente)\n• Mudou de ideia após a compra\n• Foi banido do servidor por violar regras\n• Perdeu itens/coins no jogo"
+      },
+      {
+        "title": "⚖️ Análise de Reembolso",
+        "content": "Se você solicitar reembolso, nossa equipe analisará:\n• Se os coins foram utilizados\n• Quanto foi gasto\n• Tempo desde a compra\n• Histórico de transações\n\nApenas coins **NÃO UTILIZADOS** podem ser elegíveis para reembolso."
+      },
+      {
+        "title": "🚨 Estornos Bancários (Chargeback)",
+        "content": "**ATENÇÃO:** Se você fizer estorno pelo banco/cartão:\n• Seus coins serão **removidos imediatamente**\n• Você será **banido permanentemente** do servidor\n• Será registrado em nossa lista de fraudes\n• Pode haver consequências legais\n\n⚠️ Entre em contato conosco ANTES de fazer estorno!"
+      },
+      {
+        "title": "🔒 Segurança",
+        "content": "• Todas as transações são processadas pelo Mercado Pago\n• Seus dados bancários estão seguros\n• Não armazenamos informações de pagamento\n• Sistema 100% automatizado e auditável"
+      },
+      {
+        "title": "⏰ Entrega",
+        "content": "• Coins são creditados **automaticamente** após pagamento\n• Processo leva de 5 a 30 segundos\n• Você receberá confirmação por DM no Discord\n• Suporte disponível em caso de problemas"
+      },
+      {
+        "title": "📋 Regras Gerais",
+        "content": "• Você deve estar verificado no Discord\n• Proibido revenda de coins\n• Proibido compartilhar conta\n• Tentativa de fraude resulta em ban permanente\n• Nos reservamos o direito de recusar vendas"
+      }
+    ],
+    "footer": "Ao clicar em 'Aceito os Termos', você confirma ter lido e concordado com todos os termos acima."
+  },
+  "warnings": {
+    "before_purchase": [
+      "⚠️ **LEIA COM ATENÇÃO:**",
+      "",
+      "• Não há reembolso se você gastar os coins",
+      "• Estorno bancário resulta em banimento",
+      "• Suporte disponível apenas para problemas técnicos",
+      "• Coins não têm valor fora do servidor"
+    ],
+    "after_purchase": [
+      "✅ **Pagamento Processado!**",
+      "",
+      "• Seus coins foram creditados",
+      "• Caso tenha problemas, abra um ticket",
+      "• Guarde o ID do pagamento para referência",
+      "• Obrigado pela sua compra!"
+    ]
+  }
+}

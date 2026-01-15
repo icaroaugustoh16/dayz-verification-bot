@@ -1,0 +1,58 @@
+{
+  "packages": [
+    {
+      "id": "lypse_coin",
+      "name": "Lypse Coin",
+      "coins": 400,
+      "bonus": 0,
+      "price": 10.90,
+      "emoji": "💰",
+      "description": "Pacote inicial para começar sua jornada!"
+    },
+    {
+      "id": "starter_pack",
+      "name": "Starter Pack",
+      "coins": 1195,
+      "bonus": 130,
+      "price": 34.90,
+      "emoji": "🎁",
+      "description": "Pacote popular! Ganhe 130 coins de bônus!"
+    },
+    {
+      "id": "silver_pack",
+      "name": "Silver Pack",
+      "coins": 2165,
+      "bonus": 230,
+      "price": 59.90,
+      "emoji": "🥈",
+      "description": "Ótimo custo-benefício com 230 de bônus!"
+    },
+    {
+      "id": "gold_pack",
+      "name": "Gold Pack",
+      "coins": 4655,
+      "bonus": 590,
+      "price": 124.90,
+      "emoji": "🥇",
+      "description": "Pacote VIP! Ganhe 590 coins extras!"
+    },
+    {
+      "id": "platinum_pack",
+      "name": "Platinum Pack",
+      "coins": 6825,
+      "bonus": 870,
+      "price": 174.90,
+      "emoji": "💎",
+      "description": "Para players dedicados! 870 de bônus!"
+    },
+    {
+      "id": "diamond_pack",
+      "name": "Diamond Pack",
+      "coins": 13145,
+      "bonus": 2600,
+      "price": 349.90,
+      "emoji": "👑",
+      "description": "MELHOR OFERTA! Ganhe 2.600 coins de bônus!"
+    }
+  ]
+}
