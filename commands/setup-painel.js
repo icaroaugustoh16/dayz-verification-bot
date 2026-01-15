@@ -26,7 +26,7 @@ module.exports = {
             const descricao = interaction.options.getString('descricao') || 'Para ter acesso completo ao servidor e poder jogar, siga os passos abaixo.';
             const imagem = interaction.options.getString('imagem') || 'https://cdn.discordapp.com/attachments/1037080854951899247/1422668119331307610/APOCALYPSE_TAMANHO_DISCORD_1920X1080.png';
             
-            const verifyUrl = `${process.env.VERIFICATION_URL || 'http://dayzapocalypse.duckdns.org:3002'}/verify`;
+            const verifyUrl = `${process.env.VERIFICATION_URL || 'http://localhost:3002'}/verify`;
 
             const setupEmbed = new EmbedBuilder()
                 .setColor('#ff0000')

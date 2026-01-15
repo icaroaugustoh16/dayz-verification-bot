@@ -297,7 +297,7 @@ client.on('messageCreate', async (message) => {
         return message.reply('❌ Apenas administradores.');
     }
 
-    const verifyUrl = `${process.env.VERIFICATION_URL || 'http://dayzapocalypse.duckdns.org:3002'}/verify`;
+    const verifyUrl = `${process.env.VERIFICATION_URL || 'http://localhost:3002'}/verify`;
 
     const setupEmbed = new EmbedBuilder()
         .setColor('#ff0000')

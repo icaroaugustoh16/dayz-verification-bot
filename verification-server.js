@@ -16,8 +16,8 @@ const PORT = process.env.VERIFICATION_PORT || 3002;
 const config = {
     steam: {
         apiKey: process.env.STEAM_API_KEY,
-        realm: process.env.STEAM_REALM || 'http://dayzapocalypse.duckdns.org:3002',
-        returnURL: process.env.STEAM_RETURN_URL || 'http://dayzapocalypse.duckdns.org:3002/auth/steam/return'
+        realm: process.env.STEAM_REALM || 'http://localhost:3002',
+        returnURL: process.env.STEAM_RETURN_URL || 'http://localhost:3002/auth/steam/return'
     },
     discord: {
         botToken: process.env.DISCORD_TOKEN,
