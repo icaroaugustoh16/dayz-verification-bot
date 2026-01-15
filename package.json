@@ -1,6 +1,7 @@
 {
   "name": "dayz-discord-automation",
   "version": "2.0.0",
+  "license": "MIT",
   "description": "Sistema completo de automação para servidor DayZ",
   "main": "bot-new.js",
   "scripts": {
